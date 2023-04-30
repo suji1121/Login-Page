@@ -1,0 +1,17 @@
+.image{
+    background-image: url("S:/project 1/images/simple.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    font-size: 50px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
